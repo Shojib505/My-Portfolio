@@ -66,6 +66,13 @@ section{
     background-color:#FFF4D6
 }
 
+#cv_section{
+    background-image: url("images/shapes/shape-1.png");
+    background-size: 227px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 footer{
     background-color: #0B0D17;
 }
